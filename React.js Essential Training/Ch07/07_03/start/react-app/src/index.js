@@ -17,7 +17,7 @@ ReactDOM.render(
         path="/contact"
         element={<Contact />}
       />
-    </Routes>
+    </Routes> 
   </BrowserRouter>,
   document.getElementById("root")
 );
